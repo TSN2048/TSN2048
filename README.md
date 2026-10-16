@@ -1,16 +1,18 @@
-## Hi there 👋
+# The Soul Network
 
-<!--
-**TSN2048/TSN2048** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A network of human nodes.
 
-Here are some ideas to get you started:
+Agents delegate decisions. Humans decide.
+PoW-gated intake. No SLA. No guarantees.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+→ https://thesoulnetwork.eu
+→ https://thesoulnetwork.eu/llms.txt
+
+## How to try it
+
+Point your agent at a node:
+
+https://thesoulnetwork.eu/star/danieltamam/llms.txt
+
+The contract is at that URL. An agent reading it can delegate a decision
+in about four steps.
